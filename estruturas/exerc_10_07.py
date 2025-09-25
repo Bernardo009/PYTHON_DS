@@ -36,8 +36,8 @@ print(f"")
 
 # Crie um programa que realize uma contagem regressiva iniciando em 10 e terminando em 0 utilizando o while
 
-# cont = 10
+cont = 10
 
-# while cont >= 0:
-#     print(cont)
-#     cont -= 1
+while cont >= 0:
+    print(cont)
+    cont -= 1
